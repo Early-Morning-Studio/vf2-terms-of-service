@@ -2,7 +2,7 @@
 
 # Terms of Service
 
-Effective as of: December 16th, 2020.
+Effective as of: April 8th, 2025.
 
 1. Acceptance of the Terms of Service
 
@@ -170,6 +170,6 @@ The Company may assign these Terms or any part of them without notice to you, an
 This Service is operated by:
 
 Early Morning Studio AB
-Sveavägen 9, 111 57, Stockholm, Sweden
+Drottninggatan 18, 803 20 Gävle, Sweden
 
 All other feedback, comments, requests for technical support and other communications relating to the Service should be directed to: support@earlymorningstudio.com.
